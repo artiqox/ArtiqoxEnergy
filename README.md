@@ -5,6 +5,8 @@
 ## What is AIE? ##
 AIE is a cryptocurrency to make the world a better place.
 
+Software in this repository supports both, AIE (coin) as well as AIQ (asset).
+
 ----
 ## Get it! ##
 
